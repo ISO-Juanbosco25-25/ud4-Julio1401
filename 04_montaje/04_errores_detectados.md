@@ -1,6 +1,6 @@
 # ❌ ERRORES DETECTADOS EN EL MONTAJE
 
-## 👨‍💻 Alumno:
+## 👨‍💻 Alumno: Julio Contreras Carreño
 ## 🖥️ Equipo:
 
 ---
@@ -22,25 +22,25 @@ Debes documentar al menos **3 errores**:
 
 # 🔴 ERROR 1
 
-📌 Descripción:
+📌 Descripción: Error al conectar los cables frontales
 (¿Qué ha ocurrido?)
 
-📌 Tipo:
+📌 Tipo: Real
 (Real / Simulado)
 
 📌 Fase del montaje:
 (Ejemplo: instalación de RAM, cableado, etc.)
 
-📌 Causa:
+📌 Causa: No encaje los cables en el lugar correcto
 (¿Por qué ocurre?)
 
-📌 Consecuencia:
+📌 Consecuencia: Que el ordenador no arranque
 (¿Qué problema provoca?)
 
-📌 Solución aplicada o propuesta:
+📌 Solución aplicada o propuesta: poner bien el cable en su lugar
 (¿Cómo se soluciona?)
 
-📌 ¿Cómo prevenirlo?
+📌 ¿Cómo prevenirlo? Haciendole una foto
 (Qué harías para evitarlo)
 
 📸 Evidencia (si aplica):
