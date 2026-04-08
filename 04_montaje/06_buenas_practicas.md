@@ -19,7 +19,7 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🔌 1. SEGURIDAD
 
-- 
+- Usar guante para prevenir electricidad estatica y calambres
 - 
 - 
 
@@ -29,7 +29,7 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧰 2. USO DE HERRAMIENTAS
 
-- 
+- Usar la cabeza de destornillador correspondiente al tornillo
 - 
 - 
 
@@ -39,7 +39,7 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧩 3. MONTAJE DE COMPONENTES
 
-- 
+- Montar los componentes con delicadeza
 - 
 - 
 
@@ -49,7 +49,7 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🔌 4. CONEXIONES Y CABLEADO
 
-- 
+- hacer una foto de la posicion de los cables inicialmente
 - 
 - 
 
@@ -59,7 +59,7 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🌡️ 5. ORGANIZACIÓN Y VENTILACIÓN
 
-- 
+- no enrredar los cables para conducir mejor la ventilacion
 - 
 - 
 
@@ -69,7 +69,7 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧠 6. COMPROBACIONES FINALES
 
-- 
+- Revisar que todo este en su lugar y que no falten ni agan falta cables
 - 
 - 
 
@@ -79,7 +79,7 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 💼 7. ACTITUD PROFESIONAL
 
-- 
+- Hacer una buena explicacion con explicaciones sin palabras tecnicas
 - 
 - 
 
@@ -91,7 +91,12 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 - ¿Por qué es importante seguir buenas prácticas en el montaje?
 
+Porque si no puedes llegar a dañar el equipo
+
 - ¿Qué puede pasar si no se siguen?
+
+Se estrope el equipo y los componentes
 
 - ¿Cuál crees que es la práctica más importante? ¿Por qué?
 
+El conectar los cables correctamente en su lugar porque aunque todo lo demas este bien si un cable no esta bien conectado el pc no arrancara
