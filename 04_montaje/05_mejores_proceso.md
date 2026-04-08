@@ -27,16 +27,22 @@ Las mejoras deben ser:
 📌 ¿Qué mejorarías?
 (Describe el cambio que harías)
 
-📌 ¿Por qué?
+Mejoraria el equipo utilizado
+
+📌 ¿Por qué? 
 (Explica el motivo)
+
+Son componentes antiguos y puede que en la actualidaz se armen de otra manera
 
 📌 ¿Cómo lo harías mejor?
 (Explica el proceso correcto)
 
+Con componentes mas actuales
+
 📌 ¿Qué beneficio tiene?
 (Ejemplo: evitar errores, mejorar rendimiento, mayor seguridad…)
 
----
+Puede llegar a ser mucho mas util
 
 # 🟢 MEJORA 2
 
